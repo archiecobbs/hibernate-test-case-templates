@@ -1,3 +1,5 @@
+This is a test case for [HHH-13908][https://hibernate.atlassian.net/browse/HHH-13908]
+
 # Hibernate Test Case Templates
 
 When creating a bug report for any project within the Hibernate family, it's extremely helpful (and, frankly, required)
