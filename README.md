@@ -1,4 +1,4 @@
-This is a test case for [HHH-13908][https://hibernate.atlassian.net/browse/HHH-13908]
+This is a test case for [HHH-13908](https://hibernate.atlassian.net/browse/HHH-13908)
 
 # Hibernate Test Case Templates
 
